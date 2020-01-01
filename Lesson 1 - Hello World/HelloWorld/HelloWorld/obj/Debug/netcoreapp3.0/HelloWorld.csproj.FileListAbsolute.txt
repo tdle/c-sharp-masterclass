@@ -1,0 +1,11 @@
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.exe
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.deps.json
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.json
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.dll
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.pdb
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.dll
+C:\Users\Tom\Desktop\C#\c-sharp-masterclass\Lesson 1 - Hello World\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.pdb
