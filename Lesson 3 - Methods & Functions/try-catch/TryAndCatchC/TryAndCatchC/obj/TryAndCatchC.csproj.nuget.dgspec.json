@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\program\\program\\program.csproj": {}
+    "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\try-catch\\TryAndCatchC\\TryAndCatchC\\TryAndCatchC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\program\\program\\program.csproj": {
+    "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\try-catch\\TryAndCatchC\\TryAndCatchC\\TryAndCatchC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\program\\program\\program.csproj",
-        "projectName": "program",
-        "projectPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\program\\program\\program.csproj",
+        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\try-catch\\TryAndCatchC\\TryAndCatchC\\TryAndCatchC.csproj",
+        "projectName": "TryAndCatchC",
+        "projectPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\try-catch\\TryAndCatchC\\TryAndCatchC\\TryAndCatchC.csproj",
         "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\program\\program\\obj\\",
+        "outputPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\try-catch\\TryAndCatchC\\TryAndCatchC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
