@@ -72,5 +72,6 @@ namespace program
         {
             return num1 / num2;
         }
+
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\program\\program\\program.csproj",
-      "projectName": "program",
-      "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\program\\program\\program.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\Operators\\Operators\\Operators\\Operators.csproj",
+      "projectName": "Operators",
+      "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\Operators\\Operators\\Operators\\Operators.csproj",
       "packagesPath": "C:\\Users\\Thomas Dale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\program\\program\\obj\\",
+      "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 3 - Methods & Functions\\Operators\\Operators\\Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thomas Dale\\AppData\\Roaming\\NuGet\\NuGet.Config",
