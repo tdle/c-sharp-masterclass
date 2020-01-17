@@ -1,0 +1,11 @@
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\bin\Debug\netcoreapp3.0\Operators.exe
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\bin\Debug\netcoreapp3.0\Operators.deps.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\bin\Debug\netcoreapp3.0\Operators.runtimeconfig.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\bin\Debug\netcoreapp3.0\Operators.runtimeconfig.dev.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\bin\Debug\netcoreapp3.0\Operators.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\bin\Debug\netcoreapp3.0\Operators.pdb
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\obj\Debug\netcoreapp3.0\Operators.csprojAssemblyReference.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\obj\Debug\netcoreapp3.0\Operators.AssemblyInfoInputs.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\obj\Debug\netcoreapp3.0\Operators.AssemblyInfo.cs
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\obj\Debug\netcoreapp3.0\Operators.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 3 - Methods & Functions\Operators\Operators\Operators\obj\Debug\netcoreapp3.0\Operators.pdb
