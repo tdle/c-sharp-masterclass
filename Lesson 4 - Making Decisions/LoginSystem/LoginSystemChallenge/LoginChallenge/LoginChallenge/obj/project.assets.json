@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\TryParse\\TryParse\\TryParse\\TryParse.csproj",
-      "projectName": "TryParse",
-      "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\TryParse\\TryParse\\TryParse\\TryParse.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\LoginSystem\\LoginSystemChallenge\\LoginChallenge\\LoginChallenge\\LoginChallenge.csproj",
+      "projectName": "LoginChallenge",
+      "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\LoginSystem\\LoginSystemChallenge\\LoginChallenge\\LoginChallenge\\LoginChallenge.csproj",
       "packagesPath": "C:\\Users\\Thomas Dale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\TryParse\\TryParse\\TryParse\\obj\\",
+      "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\LoginSystem\\LoginSystemChallenge\\LoginChallenge\\LoginChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thomas Dale\\AppData\\Roaming\\NuGet\\NuGet.Config",
