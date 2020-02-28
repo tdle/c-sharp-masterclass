@@ -1,0 +1,11 @@
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\bin\Debug\netcoreapp3.0\LoginChallenge.exe
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\bin\Debug\netcoreapp3.0\LoginChallenge.deps.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\bin\Debug\netcoreapp3.0\LoginChallenge.runtimeconfig.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\bin\Debug\netcoreapp3.0\LoginChallenge.runtimeconfig.dev.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\bin\Debug\netcoreapp3.0\LoginChallenge.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\bin\Debug\netcoreapp3.0\LoginChallenge.pdb
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\obj\Debug\netcoreapp3.0\LoginChallenge.csprojAssemblyReference.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\obj\Debug\netcoreapp3.0\LoginChallenge.AssemblyInfoInputs.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\obj\Debug\netcoreapp3.0\LoginChallenge.AssemblyInfo.cs
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\obj\Debug\netcoreapp3.0\LoginChallenge.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\LoginSystem\LoginSystemChallenge\LoginChallenge\LoginChallenge\obj\Debug\netcoreapp3.0\LoginChallenge.pdb
