@@ -1,0 +1,11 @@
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\bin\Debug\netcoreapp3.0\EnhancedIfStatement.exe
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\bin\Debug\netcoreapp3.0\EnhancedIfStatement.deps.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\bin\Debug\netcoreapp3.0\EnhancedIfStatement.runtimeconfig.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\bin\Debug\netcoreapp3.0\EnhancedIfStatement.runtimeconfig.dev.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\bin\Debug\netcoreapp3.0\EnhancedIfStatement.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\bin\Debug\netcoreapp3.0\EnhancedIfStatement.pdb
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\obj\Debug\netcoreapp3.0\EnhancedIfStatement.csprojAssemblyReference.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\obj\Debug\netcoreapp3.0\EnhancedIfStatement.AssemblyInfoInputs.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\obj\Debug\netcoreapp3.0\EnhancedIfStatement.AssemblyInfo.cs
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\obj\Debug\netcoreapp3.0\EnhancedIfStatement.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 4 - Making Decisions\EnhancedIfStatements\EnhancedIfStatement\EnhancedIfStatement\obj\Debug\netcoreapp3.0\EnhancedIfStatement.pdb
