@@ -62,14 +62,14 @@ namespace EnhancedIfStatement
             //add gas state of matter to the options
             //if temperature is higher than 100 degress
 
-            stateOfMatter = temperature > 100 ? "Gas" : "Liquid";
+            stateOfMatter = temperature > 100 ? "Gas" : temperature < 0 ? "Solid" : "liquid"; 
 
             Console.WriteLine("Is the state of matter a gas or liquid?");
             Console.WriteLine("State of matter is {0}", stateOfMatter);
             Console.WriteLine("|---------------------->");
             Console.ReadLine();
 
-            Console.WriteLine("The final temperature is " + temperature + "degrees");
+            Console.WriteLine("The final temperature is " + temperature + " degrees");
             Console.ReadLine();
         }
     }
