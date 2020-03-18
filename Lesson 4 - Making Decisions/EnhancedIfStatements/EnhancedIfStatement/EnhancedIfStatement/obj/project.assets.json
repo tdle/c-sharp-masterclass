@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tom\\.nuget\\packages\\": {}
+    "C:\\Users\\Thomas Dale\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\EnhancedIfStatements\\EnhancedIfStatement\\EnhancedIfStatement\\EnhancedIfStatement.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\EnhancedIfStatements\\EnhancedIfStatement\\EnhancedIfStatement\\EnhancedIfStatement.csproj",
       "projectName": "EnhancedIfStatement",
-      "projectPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\EnhancedIfStatements\\EnhancedIfStatement\\EnhancedIfStatement\\EnhancedIfStatement.csproj",
-      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\EnhancedIfStatements\\EnhancedIfStatement\\EnhancedIfStatement\\obj\\",
+      "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\EnhancedIfStatements\\EnhancedIfStatement\\EnhancedIfStatement\\EnhancedIfStatement.csproj",
+      "packagesPath": "C:\\Users\\Thomas Dale\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 4 - Making Decisions\\EnhancedIfStatements\\EnhancedIfStatement\\EnhancedIfStatement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Thomas Dale\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
