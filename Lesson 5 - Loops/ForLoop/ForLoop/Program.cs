@@ -30,6 +30,22 @@ namespace ForLoop
 
             //while loop
 
+            int whileCounter = 0;
+            string enteredText = "";
+            while(enteredText.Equals(""))
+            {
+                Console.WriteLine("Please press enter to increase amount by one and anything else." +
+                    " + enter if you want to finishing counting");
+                enteredText = Console.ReadLine();
+
+                whileCounter++;
+                Console.WriteLine("Current people count is {0}", whileCounter);
+                
+                //++ operator will increase the count by 1 until conditions are met
+                //{0}, will be replaced with specified variable, in the above case this will be the string whileCounter
+            }
+
+            Console.WriteLine("{0} people are inside the bus, press enter to close the program", whileCounter);
             Console.Read();
         }
     }
