@@ -11,21 +11,18 @@ namespace Oop
             It has actions/ abilities - so called member functions or methods
             and it has properities - so called member variables*/
 
+            //Challenge Object
+            Human john = new Human("John", "Wick");
 
-            //Create an object of my class
-            //an instance of human
+            john.IntroduceMyself();
 
-            Human denis = new Human();
+            //second object for challenge
+            Human harry = new Human("Harry", "Potter");
 
-            //Access public variable from outside class, and even change it
-            denis.firstName = "Denis";
-
-            //call methods the class
-            denis.IntroduceMyself();
+            harry.IntroduceMyself();
 
             Console.ReadKey();
-            
-
+           
         }
     }
 }
