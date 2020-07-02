@@ -28,7 +28,7 @@ namespace Oop
 
         // Challenege
         // Create a public variable lastName of type string - DONE
-        // Change the IntroduceMyself method, so it tells me the whole name
-        // Create two objects with full information about thenmself - firstName and lastName - put this in the program.cs
+        // Change the IntroduceMyself method, so it tells me the whole name - DONE
+        // Create two objects with full information about themselves - firstName and lastName - put this in the program.cs
     }
 }
