@@ -69,6 +69,7 @@ namespace Arrays
                 Console.WriteLine("Hello {0}, it's nice to meet you!", f);
             }
 
+            string[,] matrix;
         }
     }
 }
