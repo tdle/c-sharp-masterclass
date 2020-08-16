@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aEM304so4SaIvJqKzDSfwC5mCtMK5GN0G/O4/qLyH9MqCo7nlRRKX1YEY5SDZkSQBo6EFlm7EyTtUP5kd/ps1w==",
+  "dgSpecHash": "PlbjkslL+TJXD7QasOuQMOIaiDg63bS6ve1QZ3oqSr1tyX/M+fl6rt6Y21vGV1tTNDUCVW3oidssoFNcTwx2qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj",
+  "projectFilePath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Thomas Dale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\Thomas Dale\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\Thomas Dale\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\Thomas Dale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
   ],
   "logs": []
 }
