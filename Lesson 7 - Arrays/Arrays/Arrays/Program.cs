@@ -7,9 +7,7 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             int[] grades = new int[5];
-=======
             //define how many values you want to add to this array
             int[] grades = new int[5];
 
@@ -72,7 +70,7 @@ namespace Arrays
                 Console.WriteLine("Hello {0}, it's nice to meet you!", f);
             }
 
->>>>>>> 23b1f11487e3403477a53672b1f53736492174df
+            string[,] matrix;
         }
     }
 }
