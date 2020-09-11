@@ -7,7 +7,6 @@ namespace Arrays
     {
         static void Main(string[] args)
         {
-            int[] grades = new int[5];
             //define how many values you want to add to this array
             int[] grades = new int[5];
 
@@ -22,8 +21,9 @@ namespace Arrays
             Console.ReadKey();
 
             string input = Console.ReadLine();
+
             //assing value to arry grades at index 0
-            grades[0] = int.Parse(input);
+            //grades[0] = int.Parse(input);
 
             Console.WriteLine("Grades at index 0 : {0}", grades[0]);
             Console.ReadKey();
@@ -70,7 +70,27 @@ namespace Arrays
                 Console.WriteLine("Hello {0}, it's nice to meet you!", f);
             }
 
+            //declare 2D array
             string[,] matrix;
+
+            //declare 3D array
+            int[,,] threeD;
+
+            //two dimensional array
+            int[,] array2D = new int[,]
+            {
+                {1,2,3}, // row 0
+                {4,5,6}, // row 1
+                {7,8,9}  // row 2
+            };
+
+            Console.WriteLine("Central Value is {0}", array2D[1,1]);
+
+            //Challenge
+            // Try to access 7th value
+
+            Console.WriteLine("7th Value is {0}", array2D[2,0]);
+            Console.ReadKey();
         }
     }
 }
