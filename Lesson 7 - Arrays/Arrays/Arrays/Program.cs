@@ -46,7 +46,7 @@ namespace Arrays
                 nums[i] = i + 10;
             }
 
-            for(int j = 0; j < 10; j++)
+            for (int j = 0; j < 10; j++)
             {
                 Console.WriteLine("Element{0} = {1}", j, nums[j]);
             }
@@ -64,8 +64,8 @@ namespace Arrays
              */
 
             //int friendCounter = 0;
-            string[] friends = {"Leanne", "Demi", "John", "B", "Corey" };
-            foreach(string f in friends)
+            string[] friends = { "Leanne", "Demi", "John", "B", "Corey" };
+            foreach (string f in friends)
             {
                 Console.WriteLine("Hello {0}, it's nice to meet you!", f);
             }
@@ -84,13 +84,45 @@ namespace Arrays
                 {7,8,9}  // row 2
             };
 
-            Console.WriteLine("Central Value is {0}", array2D[1,1]);
+            Console.WriteLine("Central Value is {0}", array2D[1, 1]);
+
+            string[,] array2DString = new string[3, 2]
+                {
+                    {"one", "two" },
+                    {"three", "four" },
+                    {"five", "six" }
+                };
+
+            //challenge - Turn the number four value into chicken
+
+            array2DString[1, 1] = "chicken";
+            Console.WriteLine("The value for {0}", array2DString[1, 1]);
+
+            //get the numner of dimensions for the array
+            int dimensions = array2DString.Rank;
+
 
             //Challenge
             // Try to access 7th value
 
-            Console.WriteLine("7th Value is {0}", array2D[2,0]);
+            Console.WriteLine("7th Value is {0}", array2D[2, 0]);
             Console.ReadKey();
+        }
+
+            class Animal // base class (parent)
+        {
+            public void animalSound()
+            {
+                Console.WriteLine("The animal makes a sound");
+            }
+        }
+
+        class Pig : Animal //Derived Class (child)
+        {
+            public void animalSound()
+            {
+                Console.WriteLine("The pig says: wee wee");
+            }
         }
     }
 }

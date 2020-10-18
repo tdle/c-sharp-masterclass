@@ -20,3 +20,4 @@ C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays
 C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.dll
 C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.pdb
 C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.genruntimeconfig.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Arrays\Arrays\obj\Debug\netcoreapp3.0\Arrays.csprojAssemblyReference.cache
