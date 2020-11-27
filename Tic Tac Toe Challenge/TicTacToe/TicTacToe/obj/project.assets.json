@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Thomas Dale\\.nuget\\packages\\": {}
+    "C:\\Users\\Tom\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Tic Tac Toe Challenge\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Tic Tac Toe Challenge\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Tic Tac Toe Challenge\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
-      "packagesPath": "C:\\Users\\Thomas Dale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Tic Tac Toe Challenge\\TicTacToe\\TicTacToe\\obj\\",
+      "projectPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Tic Tac Toe Challenge\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Tic Tac Toe Challenge\\TicTacToe\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Thomas Dale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/blueprism/_packaging/BluePrism/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -59,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

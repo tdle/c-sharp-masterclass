@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj",
-        "packagesPath": "C:\\Users\\Thomas Dale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\obj\\",
+        "projectPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\Arrays.csproj",
+        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tom\\Desktop\\C#\\c-sharp-masterclass\\Lesson 7 - Arrays\\Arrays\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Thomas Dale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/blueprism/_packaging/BluePrism/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
@@ -71,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -38,6 +38,13 @@ namespace TicTacToe
 
                 SetField();
 
+                do
+                {
+                    Console.WriteLine("\nPLayer {0}: Choose your field! ", player);
+                    input = Convert.ToInt32(Console.ReadLine());
+
+                } while (inputCorrect);
+
                 #region
                 //check winning condition
                 char[] playerChars = { 'X', 'O' };
@@ -78,9 +85,6 @@ namespace TicTacToe
                         break;
                     }
                 }
-
-
-
                 #endregion
 
 
@@ -100,21 +104,21 @@ namespace TicTacToe
 
                     if ((input == 1) && (playField[0,0] == '1'))
                             inputCorrect = true;
-                    if ((input == 2) && (playField[0, 1] == '2'))
+                    else if ((input == 2) && (playField[0, 1] == '2'))
                             inputCorrect = true;
-                    if ((input == 3) && (playField[0, 2] == '3'))
+                    else if ((input == 3) && (playField[0, 2] == '3'))
                             inputCorrect = true;
-                    if ((input == 4) && (playField[1, 0] == '4'))
+                    else if ((input == 4) && (playField[1, 0] == '4'))
                             inputCorrect = true;
-                    if ((input == 5) && (playField[1, 1] == '5'))
+                    else if ((input == 5) && (playField[1, 1] == '5'))
                             inputCorrect = true;
-                    if ((input == 6) && (playField[1, 2] == '6'))
+                    else if ((input == 6) && (playField[1, 2] == '6'))
                             inputCorrect = true;
-                    if ((input == 7) && (playField[2, 0] == '7'))
+                    else if ((input == 7) && (playField[2, 0] == '7'))
                             inputCorrect = true;
-                    if ((input == 8) && (playField[2, 1] == '8'))
+                    else if ((input == 8) && (playField[2, 1] == '8'))
                             inputCorrect = true;
-                    if ((input == 9) && (playField[2, 2] == '9'))
+                    else if ((input == 9) && (playField[2, 2] == '9'))
                             inputCorrect = true;
                     else
                     {
