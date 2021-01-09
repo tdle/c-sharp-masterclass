@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Jagged Arrays\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj",
-      "projectName": "JaggedArrays",
-      "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Jagged Arrays\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\ArraysAsParameters\\ArraysAsParameters\\ArraysAsParameters.csproj",
+      "projectName": "ArraysAsParameters",
+      "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\ArraysAsParameters\\ArraysAsParameters\\ArraysAsParameters.csproj",
       "packagesPath": "C:\\Users\\Thomas Dale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Jagged Arrays\\JaggedArrays\\JaggedArrays\\obj\\",
+      "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\ArraysAsParameters\\ArraysAsParameters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thomas Dale\\AppData\\Roaming\\NuGet\\NuGet.Config",
