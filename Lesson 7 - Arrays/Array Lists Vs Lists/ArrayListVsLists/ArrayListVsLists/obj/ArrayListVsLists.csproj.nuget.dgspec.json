@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists\\ArrayList\\ArrayList\\ArrayList.csproj": {}
+    "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists Vs Lists\\ArrayListVsLists\\ArrayListVsLists\\ArrayListVsLists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists\\ArrayList\\ArrayList\\ArrayList.csproj": {
+    "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists Vs Lists\\ArrayListVsLists\\ArrayListVsLists\\ArrayListVsLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists\\ArrayList\\ArrayList\\ArrayList.csproj",
-        "projectName": "ArrayList",
-        "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists\\ArrayList\\ArrayList\\ArrayList.csproj",
+        "projectUniqueName": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists Vs Lists\\ArrayListVsLists\\ArrayListVsLists\\ArrayListVsLists.csproj",
+        "projectName": "ArrayListVsLists",
+        "projectPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists Vs Lists\\ArrayListVsLists\\ArrayListVsLists\\ArrayListVsLists.csproj",
         "packagesPath": "C:\\Users\\Thomas Dale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists\\ArrayList\\ArrayList\\obj\\",
+        "outputPath": "C:\\Users\\Thomas Dale\\Documents\\C# Training\\c-sharp-masterclass\\Lesson 7 - Arrays\\Array Lists Vs Lists\\ArrayListVsLists\\ArrayListVsLists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thomas Dale\\AppData\\Roaming\\NuGet\\NuGet.Config",
