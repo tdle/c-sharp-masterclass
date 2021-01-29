@@ -1,0 +1,13 @@
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\bin\Debug\netcoreapp3.1\ArraysAsParameters.exe
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\bin\Debug\netcoreapp3.1\ArraysAsParameters.deps.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\bin\Debug\netcoreapp3.1\ArraysAsParameters.runtimeconfig.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\bin\Debug\netcoreapp3.1\ArraysAsParameters.runtimeconfig.dev.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\bin\Debug\netcoreapp3.1\ArraysAsParameters.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\bin\Debug\netcoreapp3.1\ArraysAsParameters.pdb
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\obj\Debug\netcoreapp3.1\ArraysAsParameters.csprojAssemblyReference.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\obj\Debug\netcoreapp3.1\ArraysAsParameters.AssemblyInfoInputs.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\obj\Debug\netcoreapp3.1\ArraysAsParameters.AssemblyInfo.cs
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\obj\Debug\netcoreapp3.1\ArraysAsParameters.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\obj\Debug\netcoreapp3.1\ArraysAsParameters.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\obj\Debug\netcoreapp3.1\ArraysAsParameters.pdb
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\ArraysAsParameters\ArraysAsParameters\obj\Debug\netcoreapp3.1\ArraysAsParameters.genruntimeconfig.cache

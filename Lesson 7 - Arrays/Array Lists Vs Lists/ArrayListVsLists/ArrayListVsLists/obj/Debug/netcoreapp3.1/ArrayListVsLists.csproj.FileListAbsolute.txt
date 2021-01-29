@@ -1,0 +1,13 @@
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\bin\Debug\netcoreapp3.1\ArrayListVsLists.exe
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\bin\Debug\netcoreapp3.1\ArrayListVsLists.deps.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\bin\Debug\netcoreapp3.1\ArrayListVsLists.runtimeconfig.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\bin\Debug\netcoreapp3.1\ArrayListVsLists.runtimeconfig.dev.json
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\bin\Debug\netcoreapp3.1\ArrayListVsLists.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\bin\Debug\netcoreapp3.1\ArrayListVsLists.pdb
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\obj\Debug\netcoreapp3.1\ArrayListVsLists.csprojAssemblyReference.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\obj\Debug\netcoreapp3.1\ArrayListVsLists.AssemblyInfoInputs.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\obj\Debug\netcoreapp3.1\ArrayListVsLists.AssemblyInfo.cs
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\obj\Debug\netcoreapp3.1\ArrayListVsLists.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\obj\Debug\netcoreapp3.1\ArrayListVsLists.dll
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\obj\Debug\netcoreapp3.1\ArrayListVsLists.pdb
+C:\Users\Thomas Dale\Documents\C# Training\c-sharp-masterclass\Lesson 7 - Arrays\Array Lists Vs Lists\ArrayListVsLists\ArrayListVsLists\obj\Debug\netcoreapp3.1\ArrayListVsLists.genruntimeconfig.cache
